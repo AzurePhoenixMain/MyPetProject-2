@@ -13,5 +13,5 @@
 2) npx json-server --watch db.json - запуск json-сервера (GET, POST)
 
 ## Использующиеся NPM:
-1) [JSON Server] (https://github.com/typicode/json-server)
+1) [JSON Server](https://github.com/typicode/json-server)
 2) 
