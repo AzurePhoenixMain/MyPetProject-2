@@ -14,4 +14,7 @@
 
 ## Использующиеся NPM:
 1) [JSON Server](https://github.com/typicode/json-server)
-2) 
+2) [Axios](https://github.com/axios/axios)
+3) [Webpack](https://github.com/webpack/webpack)
+4) [Babel](https://github.com/babel/babel)
+
