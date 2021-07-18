@@ -12,3 +12,6 @@
 1) npx webpack - сборка проекта 
 2) npx json-server --watch db.json - запуск json-сервера (GET, POST)
 
+## Использующиеся NPM:
+1) JSON Server
+2) https://github.com/typicode/json-server
