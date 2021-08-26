@@ -30,5 +30,5 @@
 ![Alt-текст](https://sun9-46.userapi.com/impg/4qt7jA_6w6pJkA6I17TwLRe1oaDAqW1stPOSXA/OyTaIHs-Tfo.jpg?size=1360x768&quality=96&sign=3e7f598493be6bdb82070e154cd31daa&type=album "Калькулятор калорий")
 ### Меню
 ![Alt-текст](https://sun9-48.userapi.com/impg/BEwsX_zlitxSh1oyoRpvJvPxr_Hk9ho04OCZhA/k1PdukQylOI.jpg?size=1360x768&quality=96&sign=c675e0a4da087bebea0cf73a85cd3499&type=album "Меню")
-### Таймер + связь
+### Таймер + отправка данных на сервер
 ![Alt-текст](https://sun9-88.userapi.com/impg/7nsGSLoKAsbAreOnna6kkvJMrc9ZpXcKuxNevg/AqbIWZoPu_A.jpg?size=1360x768&quality=96&sign=b4792e7649f1596dc61ed52ff110cb7d&type=album "Таймер + связь")
